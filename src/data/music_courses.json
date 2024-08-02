@@ -1,0 +1,55 @@
+{
+    "courses":[
+    {
+      "id": 1,
+      "title": "Beginner Guitar Lessons",
+      "slug": "beginner-guitar-lessons",
+      "description": "Learn the basics of playing guitar, including chords, strumming, and simple songs.",
+      "price": 49.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://i.pinimg.com/736x/10/b1/e2/10b1e28cce00d6a85dc1a55518ce586c.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Piano Techniques",
+      "slug": "advanced-piano-techniques",
+      "description": "Master advanced piano techniques and learn to play complex pieces with confidence.",
+      "price": 79.99,
+      "instructor": "Jane Smith",
+      "isFeatured": true,
+      "image": "https://i.pinimg.com/736x/10/b1/e2/10b1e28cce00d6a85dc1a55518ce586c.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Music Theory Essentials",
+      "slug": "music-theory-essentials",
+      "description": "Understand the fundamentals of music theory, including scales, chords, and harmony.",
+      "price": 59.99,
+      "instructor": "Alice Johnson",
+      "isFeatured": true,
+      "image": "https://i.pinimg.com/736x/10/b1/e2/10b1e28cce00d6a85dc1a55518ce586c.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Vocal Training for Beginners",
+      "slug": "vocal-training-beginners",
+      "description": "Develop your vocal skills and learn techniques to improve your singing voice.",
+      "price": 39.99,
+      "instructor": "Michael Brown",
+      "isFeatured": true,
+      "image": "https://i.pinimg.com/736x/10/b1/e2/10b1e28cce00d6a85dc1a55518ce586c.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Drumming Fundamentals",
+      "slug": "drumming-fundamentals",
+      "description": "Get started with drumming by learning the basic rhythms and techniques.",
+      "price": 49.99,
+      "instructor": "Emily Davis",
+      "isFeatured": true,
+      "image": "https://i.pinimg.com/736x/10/b1/e2/10b1e28cce00d6a85dc1a55518ce586c.jpg"
+    }
+  ]
+  
+}
